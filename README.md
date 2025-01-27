@@ -1,2 +1,2 @@
 # tempory-git
- this is learning purpose
+ This is learning purpose of Github Desktop.
